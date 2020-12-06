@@ -3,4 +3,4 @@ project(gitTest)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(gitTest main.cpp)
+add_executable(gitTest main.cpp someFunc.cpp)
